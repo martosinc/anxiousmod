@@ -1,0 +1,3 @@
+displayName = Anxious Mod
+author = martosinc, sanek
+version = 0.1
